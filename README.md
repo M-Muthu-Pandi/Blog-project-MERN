@@ -59,9 +59,8 @@ This project is a **Personal Portfolio Web Application** built using **React**, 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to raise issues or submit pull requests.
 
----
-
 ### Connect with Me 🌟
 - [LinkedIn](https://www.linkedin.com/in/muthupandim/)  
 - [GitHub](https://github.com/M-Muthu-Pandi)
-```
+
+---
